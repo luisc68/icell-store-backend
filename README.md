@@ -1,6 +1,6 @@
 # Express JS Boilerplate
 
-An basic express boilerplate for APIs
+An basic express boilerplate for APIs, in this case is use for icell-store backend
 
 ## Requirements
 
